@@ -9,7 +9,7 @@ This is a binary classification task with the following two labels:
 
 The texts belong to exactly one of these categories and have to be classified.
 
-## Workflow how this Dataset has been generated
+## Workflow how this Dataset has been created
 The workflow on how this dataset has been created is described in the wiki here: https://eniak.de/it/creating_a_big_german_dataset_as_a_reference_for_nlp_experiments
 
 ## Download Dataset
