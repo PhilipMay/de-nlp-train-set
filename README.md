@@ -1,5 +1,7 @@
 # de-nlp-train-set
-This is a toolset to create a German NLP training set with labels from the German wikipedia. The resulting dataset can be downloaded below. The goal is to supply a big german dataset as a reference for NLP experiments. This way different deep learning networks and techniques like preprocessing can be compared. The program files are jupyter notebooks (including the output) so you can see what happened during execution.
+This is a toolset to create a German NLP training set with labels from the German wikipedia. The resulting dataset can be downloaded below. It contains 533,842 training samples and 60,000 test samples.
+
+The goal is to supply a big german dataset as a reference for NLP experiments. This way different deep learning networks and techniques like preprocessing can be compared. The program files are jupyter notebooks (including the output) so you can see what happened during execution.
 
 This is a binary classification task with the following two labels:
 - gesch for "Geschichte" - the german word for history
