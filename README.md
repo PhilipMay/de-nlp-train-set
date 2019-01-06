@@ -17,3 +17,5 @@ It contains the following 4 directories:
 - gesell_train - with 266,921 samples
 - gesch_test - with 30,000 samples
 - gesell_test - with 30,000 samples
+
+The filename is the id of the wikipedia article. It can be viewed when you enter https://de.wikipedia.org/wiki?curid=10 and replace the suffix number of the URL with the file name number.
