@@ -16,9 +16,9 @@ The workflow on how this dataset has been created is described in the wiki here:
 The dataset can be downloaded here: https://eniak.de/download/nlp-train-set/text-data.zip
 
 It contains the following 4 directories:
-- gesch_train - with 266,921 samples
-- gesell_train - with 266,921 samples
-- gesch_test - with 30,000 samples
-- gesell_test - with 30,000 samples
+- gesch_train - with 266,921 training samples for category "gesch"
+- gesell_train - with 266,921 training samples for category "gesell"
+- gesch_test - with 30,000 samples test samples for category "gesch"
+- gesell_test - with 30,000 samples test samples for category "gesell"
 
 The filename is the id of the wikipedia article. It can be viewed when you enter https://de.wikipedia.org/wiki?curid=10 and replace the suffix number of the URL with the file name number.
